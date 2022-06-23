@@ -1,0 +1,37 @@
+CIC IPN Algoritmos Proyecto 5
+
+Erdos Renyi 100 nodos
+https://youtu.be/-rMR_pcYL80
+
+Erdos Renyi 500 nodos
+https://youtu.be/l9qnsLi0fd4
+
+Dorogovtsev Mendes Nodos 500
+https://youtu.be/wK5ii843410
+
+Dorogovtsev Mendes Nodos 100
+https://youtu.be/tfG4ZG2efUU
+
+Barabasi Albert 100 nodos
+https://youtu.be/mEPgrxY8xYc
+
+Barabasi Albert 500 nodos
+https://youtu.be/QrbPBEPH9Ec
+
+Geografico 100 nodos
+https://youtu.be/_DWM7DS2YHk
+
+Geografico 500 nodos
+https://youtu.be/LST4THQDIiM
+
+Malla_100_nodos
+https://youtu.be/o01132TxlGs
+
+Malla 500 nodos
+https://youtu.be/fkZhsqB_4Ac
+
+Gilbert 100 nodos
+https://youtu.be/5lspaEkSIuA
+
+Gilbert_500_nodos
+https://youtu.be/EDTan4-zVac
